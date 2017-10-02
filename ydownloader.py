@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from __future__ import unicode_literals
 
-"""ydownloader.py: Description of what foobar does."""
+"""ydownloader.py: download  and convert video songs to mp3 directly."""
 
 __author__      = "Thegb91"
 __copyright__   = "Copyright 2017"
